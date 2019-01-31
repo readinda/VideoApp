@@ -10,6 +10,8 @@ import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity {
 
+    //ini komen yang baru ditambahkan dan akan dicommit
+
     VideoView videoView;
 
     @Override
